@@ -1,1 +1,1 @@
-rightly working now
+this is my shell solution
