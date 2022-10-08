@@ -1,2 +1,2 @@
 #!/bin/bash
-usermod -g groupname betty
+su usermod -g betty groupname
