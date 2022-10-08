@@ -1,2 +1,2 @@
 #!/bin/bash
-su usermod -g betty groupname/file
+chown betty hello
